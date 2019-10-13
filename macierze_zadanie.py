@@ -1,0 +1,3 @@
+wynik = []
+
+while
